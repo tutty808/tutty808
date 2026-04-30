@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ryo Tsuchihira
 
-<!--
-**tutty808/tutty808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Acoustic Design at Kyushu University, Omoto Laboratory.
 
-Here are some ideas to get you started:
+I am building skills in two technical directions:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acoustic Research
+Spatial audio, room acoustics, room impulse responses, adaptive filtering, and audio signal processing.
+
+## AI / R&D Engineering
+AI/ML, RAG systems, evaluation workflows, and research-oriented software development.
+
+## Current Focus
+- Building reproducible Python projects
+- Developing small AI/RAG and ML evaluation tools
+- Implementing audio and signal processing methods
+- Connecting acoustic research with modern AI engineering
