@@ -1,17 +1,28 @@
 # Ryo Tsuchihira
 
-M.S. student in Acoustic Design at Kyushu University, Omoto Laboratory.
+M.S. student in Acoustic Design at Kyushu University, Omo Laboratory.
 
-I am building skills in two technical directions:
+I am interested in spatial audio, room acoustics, room impulse responses, late reverberation, adaptive filtering, and audio signal processing.
 
-## Acoustic Research
-Spatial audio, room acoustics, room impulse responses, adaptive filtering, and audio signal processing.
+## Research Interests
 
-## AI / R&D Engineering
-AI/ML, RAG systems, evaluation workflows, and research-oriented software development.
+- Spatial audio and room acoustics
+- Room impulse response analysis
+- Late reverberation generation and replacement
+- Adaptive filtering and acoustic signal processing
+- Research-oriented Python implementation
 
 ## Current Focus
-- Building reproducible Python projects
-- Developing small AI/RAG and ML evaluation tools
-- Implementing audio and signal processing methods
-- Connecting acoustic research with modern AI engineering
+
+- Building reproducible Python projects for audio signal processing
+- Implementing adaptive filtering algorithms such as LMS and NLMS
+- Developing a research project on directional late reverberation control
+- Learning PyTorch for audio and acoustic signal processing
+
+## Projects
+
+- `adaptive-filtering-lms-demo`  
+  LMS-based FIR system identification demo for adaptive audio signal processing.
+
+- `directional-late-reverb-lab`  
+  Work in progress: analysis, generation, and replacement of late reverberation in room impulse responses.
