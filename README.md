@@ -1,28 +1,34 @@
 # Ryo Tsuchihira
 
-M.S. student in Acoustic Design at Kyushu University, Omo Laboratory.
+M.S. student in Acoustic Design at Kyushu University.
 
-I am interested in spatial audio, room acoustics, room impulse responses, late reverberation, adaptive filtering, and audio signal processing.
+I work on spatial audio and acoustic signal processing, focusing on the
+analysis and control of directional late reverberation in measured room
+impulse responses.
 
-## Research Interests
+My work combines acoustic research, reproducible Python implementation,
+and machine learning with PyTorch.
 
-- Spatial audio and room acoustics
-- Room impulse response analysis
-- Late reverberation generation and replacement
-- Adaptive filtering and acoustic signal processing
-- Research-oriented Python implementation
+## Research
 
-## Current Focus
-
-- Building reproducible Python projects for audio signal processing
-- Implementing adaptive filtering algorithms such as LMS and NLMS
-- Developing a research project on directional late reverberation control
-- Learning PyTorch for audio and acoustic signal processing
+- Directional analysis of multichannel room impulse responses
+- Estimation, generation, and control of late reverberation
+- Acoustic evaluation using energy decay and inter-channel metrics
+- Adaptive filtering and system identification
 
 ## Projects
 
-- `adaptive-filtering-lms-demo`  
-  LMS-based FIR system identification demo for adaptive audio signal processing.
+### [spatial-late-reverb-lab](https://github.com/tutty808/spatial-late-reverb-lab)
 
-- `directional-late-reverb-lab`  
-  Work in progress: analysis, generation, and replacement of late reverberation in room impulse responses.
+Analysis, generation, and replacement of directional late reverberation
+in measured room impulse responses.
+
+### [adaptive-filtering-lms-demo](https://github.com/tutty808/adaptive-filtering-lms-demo)
+
+LMS-based FIR system identification with convergence and estimation-error
+analysis.
+
+## Skills
+
+Python / PyTorch / Git  
+Spatial Audio / Acoustic Signal Processing / Machine Learning
